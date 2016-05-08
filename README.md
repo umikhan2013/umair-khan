@@ -1,6 +1,6 @@
 # umair-khan
-## khan
-### zamin
-#### rafay
-##### haha
+*khan*
+_zamin_
+**rafay**
+__haha__
 ###### lol
